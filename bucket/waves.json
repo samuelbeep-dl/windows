@@ -3,6 +3,6 @@
     "description": "Calculate the velocity, frequency, or wavelength of a wave.",
     "homepage": "https://samuelsharp.com/more/waves",
     "license": "CC0",
-    "url": "https://raw.githubusercontent.com/samuelbeep-dl/src/master/linux/waves.exe",
+    "url": "https://raw.githubusercontent.com/samuelbeep-dl/src/master/windows/waves.exe",
     "bin": "waves.exe"
 }
